@@ -1,0 +1,44 @@
+/* Place your CSS styles in this file */
+
+body {
+
+    background-color: #a5d5ff;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.headshot {
+border-radius:15px;
+margin-right: 40px;
+border: 1px solid #0048ff;
+
+}
+.main {
+    display: flex; 
+    justify-content: center;
+    
+}
+h1 {
+
+text-align: center;
+
+   }
+.funfacts{
+    margin-top: -10px;
+
+       }
+.footer { 
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #0048ff;
+    border-radius: 15px;
+    width: 503px;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.button{
+    border-radius:15px ;
+}
+
